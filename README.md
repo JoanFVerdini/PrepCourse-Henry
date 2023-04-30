@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Repositorio de prueba del modulo2 del PrepCourse Henry
+joan verdini
+proyecto prueba de clonado git hub al escritorio
